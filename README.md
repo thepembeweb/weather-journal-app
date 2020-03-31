@@ -38,7 +38,7 @@ $ npm install
 ```
 Navigate to the website folder and open the index.html file in your browser to run the website.
 
-Alternatively you can view the website [here](https://thepembeweb.github.io/weather-journal-app/website/index.html).
+Alternatively you can view the live website [here](https://thepembeweb.github.io/weather-journal-app/website/index.html).
 
 ## Built With
 
