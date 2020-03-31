@@ -6,7 +6,7 @@
 
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-## Landing Page
+## Weather-Journal App
 
 ![](weather-journal-app-screenshot.jpg)
 
